@@ -1,0 +1,83 @@
+.btn-purchase{
+    padding: 10px;
+   
+}
+.login{
+    background-color: green;
+    color: #fff;
+}
+.col img{
+    width: 100%;
+}
+.h1-text{
+    font-weight: 600;
+}
+.btn-bg{
+    background-color: white;
+   
+    padding: 15px;
+}
+.regina{
+    color: blue;
+}
+.banker{
+    font-weight: 400;
+}
+.text{
+    color: #fff;
+}
+.dark{
+    background-color: black;
+    padding: 20px;
+}
+.font-bold{
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    text-decoration: none;
+}
+ul a:hover{
+    color: aqua;
+}
+.button-text{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn-simple{
+    text-align: center;
+}
+
+.bike-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.client-img{
+    margin: 0 auto;
+}
+
+.client-card img{
+    margin: 2px solid #373b38 !important;
+}
+
+
+
+li a:hover{
+    background-color:#fff;
+    color:blue !important;
+
+}
+.bike-info{ 
+    margin: 20px; 
+    border: 1px solid #CCCCCC;
+    padding: 15px;
+    /* border-radius: 5%; */
+    text-align: center;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ .button-submit{
+   background-color:#e76f51; 
+   color: #fff;
+ }
